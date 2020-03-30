@@ -1,0 +1,68 @@
+.heading{
+    padding-top: 12%;
+    font-size:45px;
+    font-family: American Typewriter;
+    padding-left: 7%;
+    text-shadow: 4px 3px 10px black;
+}
+.box{
+    background-color: white;
+    width: 100%;
+    border: 1px solid #93D1F6;
+    box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box_bar{
+    height: 43px;
+    width: 1.3px;
+    background-color: #707070;
+}
+.para_signin{
+    padding:15px 0px 0px 27px;
+}
+.para_signup{
+    padding:15px 0px 0px 0px;
+}
+.para_box_bar{
+    padding:6px 0px 0px 35px;
+}
+.heading_span{
+    color: rgb(240, 238, 236);
+    padding-left: -0.5%;
+}
+.Link{
+    color: black;
+}
+.Link:hover{
+    text-decoration: none;
+    color: black;
+}
+.subHeading1{
+    margin-left:27%;
+    color: rgb(66, 182, 250);
+}
+@media only screen and (max-width: 1200px){
+    .heading{
+        padding-top: 10%;
+        font-size:35px;
+        font-family: American Typewriter;
+        padding-left: 7%;
+    }
+    .para_signin{
+        padding:15px 0px 0px 27px;
+    }
+    .para_signup{
+        padding:15px 0px 0px 0px;
+    }
+    .para_box_bar{
+        padding:6px 0px 0px 35px;
+    }
+    .box{
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .box_bar{
+        height: 37px;
+        width: 1.3px;
+        background-color: #707070;
+    }
+}

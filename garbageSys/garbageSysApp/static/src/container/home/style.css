@@ -1,0 +1,65 @@
+.container_Filter{
+    margin-top: 30px;
+    margin-left: -70px!important;
+}
+.left_heading{
+    margin-top: 15px;
+    margin-left: -40px!important;
+}
+.right_heading{
+    margin-top: 21px;
+    margin-left: -80px!important;
+}
+.left_mainHeading{
+    font-size: 21px;
+    font-weight: 500;
+}
+.left_subHeading{
+    font-size: 13px;
+    color: #676A65;
+}
+.right_headingContent{
+    font-size: 14px;
+    color: #212529;
+    font-weight: 500;
+}
+.Card_Deck{
+    margin-left: -10px!important;
+    margin-top: 0px;
+}
+.grad{
+    position: fixed;
+    margin-left: 430px!important;
+    height:910px;
+    width:55px;
+    background-image: linear-gradient(to left, rgb(170, 169, 169),rgb(231, 231, 231) , white); 
+}
+.Map{
+    height: 500px;
+    width: 455px;
+    position: fixed;
+}
+.CollapsedBar{
+    margin-left: -70px;
+}
+.left_subHeading{
+    padding-top: 21px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.priceRelevance{
+    cursor: pointer;
+}
+.priceLow{
+    cursor: pointer;
+}
+.priceHigh{
+    cursor: pointer;
+}
+.priceReset{
+    cursor: pointer;
+}
+.CardsContainers{
+    margin-top: 9%;
+    margin-left: 3%;
+}

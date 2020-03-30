@@ -1,0 +1,27 @@
+.RedButton {
+    background-color: rgb(155, 70, 18);
+    border: none;
+    color: rgb(224, 223, 223);
+    padding: 1.5% 31%;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+    font-weight: 200;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .RedButton:hover {
+    background-color: rgb(155, 70, 18);
+    border: none;
+    color: rgb(224, 223, 223);
+    padding: 1.5% 31%;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+    font-weight: 200;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+.RedButton:focus{
+    outline: none!important;
+}

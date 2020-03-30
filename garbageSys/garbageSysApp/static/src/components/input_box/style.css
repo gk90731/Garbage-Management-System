@@ -1,0 +1,17 @@
+.general input{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background-color: rgb(238, 238, 238);
+    width: 50%;
+    background-color: transparent;
+    font-size: 16px;
+    color: rgb(116, 116, 116);
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.general input:focus{
+    outline: none;
+}

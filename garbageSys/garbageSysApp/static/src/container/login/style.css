@@ -1,0 +1,48 @@
+.loginbox{
+    height: 315px;
+    width: 551px;
+    background-color: white;
+    margin-top: 38%;
+    margin-left: 59%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.loginbox p{
+    padding:5% 0% 0% 45%;
+    color: #525252;
+    font-weight: 500;
+}
+.loginemail{
+    padding-left: 15%;
+    padding-top: 6%;
+}
+.loginemail_input{
+    margin-left: 39px!important;
+    margin-top: -23px;
+}
+
+.loginpass{
+    padding-left: 15%;
+    padding-top: 6%;
+}
+
+.forgotpass p{
+    color: #6FCBFF;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 65%;
+    padding-top: -10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.loginbutton {
+    margin-left: 25% !important;
+  }
+.loginBox_EnvelopeIcon{
+    color: rgb(155, 70, 18);
+    height: 18px;
+    width: 18px;
+}
+.loginBox_KeyIcon{
+    color: rgb(155, 70, 18);
+    height: 18px;
+    width: 18px;
+}

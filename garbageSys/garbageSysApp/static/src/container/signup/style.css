@@ -1,0 +1,163 @@
+.SignUp_box{
+    height: 535px;
+    width: 543px;
+    background-color: white;
+    margin-top: 32%;
+    margin-left: 64%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.SignUp_title{
+    padding:5% 0% 0% 45%;
+    color: #525252;
+    font-weight: 500;
+}
+/* -------------------------------------------------------------------------- */
+.SignUp_username{
+    padding-left: 15%;
+    padding-top: 6%;
+}
+.SignUp_username input{
+    padding-left: 21px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background-color: rgb(238, 238, 238);
+    width: 50%;
+    background-color: transparent;
+    font-size: 16px;
+    color: rgb(116, 116, 116);
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.SignUp_username input:focus{
+    outline: none;
+}
+/* ---------------------------------------------------------------------------------- */
+.SignUp_email{
+    padding-left: 15%;
+    padding-top: 6%;
+}
+.SignUp_email input{
+    padding-left: 21px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background-color: rgb(238, 238, 238);
+    width: 50%;
+    background-color: transparent;
+    font-size: 16px;
+    color: rgb(116, 116, 116);
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.SignUp_email input:focus{
+    outline: none;
+}
+/* --------------------------------------------------------------------------------------------- */
+.SignUp_pass{
+    padding-left: 15%;
+    padding-top: 6%;
+}
+.SignUp_pass input{
+    padding-left: 21px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background-color: rgb(238, 238, 238);
+    width: 50%;
+    background-color: transparent;
+    font-size: 16px;
+    color: rgb(116, 116, 116);
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.SignUp_pass input:focus{
+    outline: none;
+}
+/* ------------------------------------------------------------------------------------------ */
+.forgot_pass p{
+    color: #6FCBFF;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 65%;
+    padding-top: -10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* -------------------------------------------------------------------------------------------- */
+.SignUp_button {
+    padding-top: 10%;
+    padding-left: 21%;
+  }
+/* ----------------------------------------------------------------- */
+.SignUp_confirmpass{
+    padding-left: 15%;
+    padding-top: 6%;
+}
+.SignUp_confirmpass input{
+    padding-left: 21px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background-color: rgb(238, 238, 238);
+    width: 50%;
+    background-color: transparent;
+    font-size: 16px;
+    color: rgb(116, 116, 116);
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.SignUp_confirmpass input:focus{
+    outline: none;
+}
+/* ----------------------------------------------------------------- */
+.Already_account{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    padding: 3% 0% 0% 29%;
+    margin:0px;
+}
+.terms_conditions{
+    font-size: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 1.2% 0% 0% 19%;
+    color: rgb(119, 118, 118);
+}
+/* --------------------------------------------------------------- */
+.SignUp_InputBox{
+    margin-left: 39px!important;
+    margin-top: -23px;
+}
+/* ----------------------------------------------------------------- */
+.SignUp_box_UserIcon{
+    color: rgb(155, 70, 18);
+    height: 18px;
+    width: 18px;
+}
+.SignUp_box_KeyIcon{
+    color: rgb(155, 70, 18);
+    height: 18px;
+    width: 18px;
+}
+.SignUp_box_LockIcon{
+    color: rgb(155, 70, 18);
+    height: 18px;
+    width: 18px;
+}
+.Already_accountSpan{
+    color: #05C1FE;
+}
+.terms_conditionsSpan1{
+    color: black;
+}
+.terms_conditionsSpan2{
+    color: black;
+}

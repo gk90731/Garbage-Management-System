@@ -1,0 +1,45 @@
+.cardBox{
+    width: 236px;
+    height: 247px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 11px #00000029;
+    padding: 12px;
+}
+.footer_box{
+    width: 236px;
+    height: 47px;
+    background: rgb(196, 196, 196) 0% 0% no-repeat padding-box;
+}
+.card_address{
+    font-size: 15px;
+    margin: -94px 0px 0px 0px;
+    font-weight: 500;
+    text-shadow: 0px 0px 1px black;
+    text-align: center;
+}
+.stop_card{
+    height: 29px;
+    width: 29px;
+    float: right;
+    color:rgb(172, 75, 19);
+}
+.play_card{
+    height: 29px;
+    width: 33px;
+    float: right;
+    padding-right: 4px;
+    color:rgb(172, 75, 19);
+}
+.Sqft_slider{
+    margin: 25px 30px 35px 30px;
+}
+.progress{
+    display: -ms-flexbox;
+    display: flex;
+    height: 9px;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+    margin-top: 88px;
+}

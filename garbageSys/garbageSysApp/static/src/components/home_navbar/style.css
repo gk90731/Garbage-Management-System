@@ -1,0 +1,33 @@
+.home_postAd{
+    margin-right: 160px !important;
+    margin-top: -46px !important;
+    float: right;
+    background-color: #FFB44D;
+    border: none;
+    color: white;
+    padding: 0.3% 1.6%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.home_postAd:focus{
+    outline: none;
+}
+.home_postAd:hover{
+    outline: none;
+    background-color: #FFB44D;
+}
+.Link{
+    text-decoration: none;
+    color: white;
+}
+.Link:Hover{
+    text-decoration: none;
+    color: white;
+}

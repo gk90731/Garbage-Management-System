@@ -1,0 +1,238 @@
+.bedroom,.bedroom:hover{
+    width: 160px;
+    height: 35px;
+    border: 1px solid #FFB54D;
+    border-radius: 10px;
+    padding-top: 3px;
+    padding-left: 9px;
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    overflow: hidden;
+    float: left;
+    margin-right: 21px;
+    margin-left: 53px;
+    margin-top: 33px;
+}
+.bedroom:focus{
+    color: black!important;
+    background-color: white!important;
+    border-color: #FFB54D!important;
+    box-shadow: none!important;
+}
+
+.budget,.budget:hover{
+    width: 160px;
+    height: 35px;
+    border: 1px solid #FFB54D;
+    border-radius: 10px;
+    padding-top: 3px;
+    padding-left: 9px;
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    overflow: hidden;
+    float: left;
+    margin-right: 21px;
+    margin-left: 6px;
+    margin-top: 33px;
+}
+.budget:focus{
+    color: black!important;
+    background-color: white!important;
+    border-color: #FFB54D!important;
+    box-shadow: none!important;
+}
+.myLabel{
+    float: left;
+}
+.myInput{
+    float: right;
+}
+
+.bedroom_BedIcon{
+    color: rgb(172, 75, 19);
+    width:30px;
+    height:30px;
+    padding-right: 5px;
+}
+
+.budget_DollarIcon{
+    color: rgb(172, 75, 19);
+    width: 21px;
+    height: 21px;
+    padding-bottom: 2px;
+}
+.More_Filters_LandmarkIcon{
+    color: #FF5862;
+    width: 24px;
+    height: 24px;
+    padding-bottom: 4px;
+}
+
+@media only screen and (max-width: 1200px){
+    .bedroom{
+        width: 120px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 9px;
+        font-size: 14px;
+        font-weight: 500;
+        color: black;
+        background-color: white;
+        cursor: pointer;
+        overflow: hidden;
+    }
+    .Check_in{
+        width: 155px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 16px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 11px;
+    }
+    .Check_out{
+        width: 155px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 16px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 58px;
+    }
+    .budget{
+        width: 120px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 9px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 104px;
+        overflow: hidden;
+     
+    }
+    .Rooms{
+        width: 120px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 9px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 115px;
+        overflow: hidden;
+     
+    }
+    .More_Filters{
+        width: 145px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 11px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 127px;
+      
+    }
+}
+@media only screen and (max-width: 1000px){
+    .bedroom{
+        width: 120px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 9px;
+        font-size: 14px;
+        font-weight: 500;
+        color: black;
+        background-color: white;
+        cursor: pointer;
+        overflow: hidden;
+    }
+    .Check_in{
+        width: 155px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 16px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 11px;
+    }
+    .Check_out{
+        width: 155px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 16px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 58px;
+    }
+    .budget{
+        width: 120px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 9px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 104px;
+        overflow: hidden;
+     
+    }
+    .Rooms{
+        width: 120px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 9px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 115px;
+        overflow: hidden;
+     
+    }
+    .More_Filters{
+        width: 145px;
+        height: 35px;
+        border: 1px solid #FFB54D;
+        border-radius: 10px;
+        padding-top: 5px;
+        padding-left: 11px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        margin-left: 127px;
+      
+    }
+}

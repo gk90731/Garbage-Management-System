@@ -1,0 +1,102 @@
+.myExtendedNavBar{
+    width:100%;
+    height:77px;
+}
+.ul2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.ul2 li{
+    float: left;
+}
+.ul2 li img{
+    height: 68px;
+    width: 90px;
+    padding: 30px 0px 0px 50px;
+}
+
+.new_verticalbar{
+    height: 30px;
+    width: 2px;
+    background-color: #A2A2A2;
+    margin-top: 35px;
+    margin-left: 18px;
+}
+.new_house_price{
+    color: #3f6d96;
+    font-weight:500;
+    margin-top: 34px;
+    margin-left: 18px;
+}
+.ul3{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    margin-top: 34px;
+    margin-right: 34px;
+}
+.ul3 li{
+    display: inline;
+    padding:6px;
+}
+
+.badge{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    top: -14px;
+    right: 12px;
+    background-color: rgb(172, 75, 19);
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+}
+.badge p{
+    text-align: center;
+    padding-bottom: -18px;
+    position: relative;
+    bottom: 2px;
+    font-size: 12px;
+}
+.ul3_bellIcon{
+    color:#8D8D8D;
+    height:30px;
+    width:30px;
+}
+.ul3_heartIcon{
+    color:#8D8D8D;
+    height:30px;
+    width:30px;
+    cursor: pointer;
+}
+.ul3_UserCircleIcon{
+    color:#8D8D8D;
+    height:30px;
+    width:30px;
+    cursor: pointer;
+}
+/* ================================== */
+.hover_content {
+    display:none;
+    position: absolute;
+}
+.ul3_User:hover .hover_content {
+    background-color: #f1f0f0;
+    margin-left: 10px;
+    margin-top: 0px;
+    height: 30px;
+    width:70px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    display:block;
+}
+.logout_dropdown{
+    color: #8D8D8D;
+    font-size: 15px;
+    font-weight: 450;
+    padding-left: 8px;
+    padding-top: 4px;
+    cursor: pointer;
+}
